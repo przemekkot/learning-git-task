@@ -27,3 +27,7 @@ print(' ')
 products = list(shopping_list.values())
 
 print(f"Brakuje mi pieczywa w domu, więc idę do {shop[0].capitalize()} żeby kupić {products[0][0]} lub {products[0][2]}.")
+
+print(' ')
+
+print("Greetings for my Mentor - Artur :)"
