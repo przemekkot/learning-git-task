@@ -17,3 +17,7 @@ for shop in shopping_list:
 print(f"W sumie kupuję {n} produktów.")
 
 print(' ')
+
+shop = list(shopping_list.keys())
+
+print(f"Moje sklepy do wyboru to: {shop[0].capitalize()} i {shop[1].capitalize()}.")
