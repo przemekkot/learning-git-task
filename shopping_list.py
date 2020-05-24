@@ -16,3 +16,4 @@ for shop in shopping_list:
     
 print(f"W sumie kupuję {n} produktów.")
 
+print(' ')
